@@ -1,6 +1,6 @@
 {
   "name": "@owstack/payment-protocol-lib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Payment Protocol (BIP70 and related) support.",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,8 @@
   },
   "browser": "lib/browser.js",
   "dependencies": {
-    "@owstack/ows-common": "^0.0.10",
-    "@owstack/key-lib": "^0.0.15",
+    "@owstack/ows-common": "^0.0.11",
+    "@owstack/key-lib": "^0.0.17",
     "asn1.js": "=4.9.1",
     "asn1.js-rfc3280": "=4.0.0",
     "asn1.js-rfc5280": "=2.0.0",
